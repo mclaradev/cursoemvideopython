@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a098137-c6c6-4654-b099-55e283f797b8" name="Changes" comment="desafio simples de python">
+    <list default="true" id="4a098137-c6c6-4654-b099-55e283f797b8" name="Changes" comment="tipos primitivos e saída de dados">
+      <change afterPath="$PROJECT_DIR$/desafiospython/desafio003.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex002.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -53,6 +59,7 @@
   "keyToString": {
     "Python.desafio001.executor": "Run",
     "Python.desafio002.executor": "Run",
+    "Python.desafio003.executor": "Run",
     "Python.ex000.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
@@ -110,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747863511340</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="tipos primitivos e saída de dados">
+      <option name="closed" value="true" />
+      <created>1747947349740</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747947349740</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +170,7 @@
     <MESSAGE value="criação de arquivos python junto com exercicios básicos para começar os estudos" />
     <MESSAGE value="criação de uma pasta separada com um arquivo python para os desafios do curso de python" />
     <MESSAGE value="desafio simples de python" />
-    <option name="LAST_COMMIT_MESSAGE" value="desafio simples de python" />
+    <MESSAGE value="tipos primitivos e saída de dados" />
+    <option name="LAST_COMMIT_MESSAGE" value="tipos primitivos e saída de dados" />
   </component>
 </project>
